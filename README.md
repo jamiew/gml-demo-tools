@@ -1,4 +1,5 @@
-h1. GML Demo Tools (Mac)
+GML Demo Tools (Mac)
+-------------------
 
 These scripts turn a Mac computer into a Graffiti Markup Language (GML) installation.
 
@@ -13,7 +14,8 @@ AppleScripts are used to restart or refresh running applications, like
 - and many others... see http://graffitimarkuplanguage.com/projects for more
 
 
-h2. Your Tag Here
+Your Tag Here
+-------------
 
 There are a variety of ways for people to capture tags & upload to 000000book, including:
 
@@ -28,12 +30,13 @@ And if you want to get fancy:
 - EyeWriter: http://eyewriter.org
 
 
-h2. More Information
+More Information
+----------------
 
 http://fffff.at
 http://graffitimarkuplanguage.com
 
-Twitter: "@fffffat":http://twitter.com/fffffat and "@jamiew":http://twitter.com/jamiew
+Twitter: (@fffffat)[http://twitter.com/fffffat] and (@jamiew)[http://twitter.com/jamiew]
 
 All code released under MIT license
 Jamie Wilkinson 2010 
